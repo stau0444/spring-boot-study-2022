@@ -15,6 +15,7 @@ import org.springframework.core.env.Environment;
 import java.io.PrintStream;
 
 @SpringBootApplication
+
 public class SpringBootTestProjectApplication {
 
     public static void main(String[] args) {
